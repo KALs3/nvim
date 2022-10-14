@@ -12,3 +12,5 @@ I try to keep it very minimal and efficient.
 
 ![Logo](https://yufanlu.net/2018/09/03/neovim-python/neovim.png)
 
+i don't use it fulltime now 
+but i will be updating it soon.
